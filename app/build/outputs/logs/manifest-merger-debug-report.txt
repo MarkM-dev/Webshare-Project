@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:2:1-46:12
+	package
+		ADDED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:13:6-87
+	android:name
+		ADDED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:13:23-68
+uses-permission#android.permission.READ_SMS
+ADDED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:14:6-68
+	android:name
+		ADDED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:14:23-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:15:6-92
+	android:name
+		ADDED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:15:23-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:16:6-81
+	android:name
+		ADDED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:16:23-79
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:17:6-73
+	android:name
+		ADDED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:17:23-70
+application
+ADDED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:20:5-44:19
+	android:label
+		ADDED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:22:9-38
+	android:allowBackup
+		ADDED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:24:9-40
+activity#markm.webshareproj.MainActivity
+ADDED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:25:9-38:20
+	android:label
+		ADDED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:27:13-45
+	android:name
+		ADDED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:26:13-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:28:13-37:29
+action#android.intent.action.MAIN
+ADDED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:31:27-74
+receiver#markm.webshareproj.SMSReciever
+ADDED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:39:9-43:20
+	android:name
+		ADDED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:39:19-64
+intent-filter#action:name:android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:40:13-42:29
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:41:17-82
+	android:name
+		ADDED from C:\android_sdk\workspace\Marks Webshare Project\app\src\main\AndroidManifest.xml:41:25-79

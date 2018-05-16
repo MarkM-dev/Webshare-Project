@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mark\'s webshare project</string>
+    <!-- 
+    // can't use the strings resource for the dialog title for some reason.
+    <string name="sms_received_dialog_new_share_received">"New share is received from "</string> -->
+    <string name="sms_received_dialog_no_thanks">No thanks</string>
+    <string name="sms_received_dialog_later">Later</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="sms_send_body_replace_with_url">Replace with URL</string>
+    <string name="add_dialog_must_enter_title">Must enter title</string>
+    <string name="toast_link_added">Link added</string>
+    <string name="toast_no_item_is_selected">No item is selected</string>
+    <string name="toast_deleted">Deleted</string>
+    <string name="notification_shared_a_link_with_you">" shared a link with you!"</string>
+    <string name="add_dialog_add_a_new_link">Add a new link</string>
+    <string name="add_dialog_title">Title</string>
+    <string name="add_dialog_hint_title">Title</string>
+    <string name="add_dialog_hint_description">Description</string>
+    <string name="add_dialog_hint_url">URL</string>
+    <string name="add_dialog_hint_category">Category</string>
+    <string name="add_dialog_hint_origin">Origin</string>
+    <string name="web_contentDescription_back_button">back button</string>
+    <string name="web_contentDescription_home_button">home button</string>
+    <string name="web_contentDescription_forward_button">forward button</string>
+    <string name="web_contentDescription_go_button">go button</string>
+    <string name="info_dialog_options_and_info">Options and info</string>
+    <string name="info_dialog_title">"Title: "</string>
+    <string name="info_dialog_n_a">n/a</string>
+    <string name="info_dialog_description">"Description: "</string>
+    <string name="info_dialog_url">"URL: "</string>
+    <string name="info_dialog_category">"Category: "</string>
+    <string name="info_dialog_from">"From: "</string>
+    <string name="info_dialog_delete_button">Delete</string>
+    <string name="info_dialog_share_button">Share</string>
+    
+
+</resources>

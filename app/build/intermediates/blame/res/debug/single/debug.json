@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\build\\intermediates\\res\\merged\\debug\\anim_push_up_in.xml.flat",
+        "source": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\src\\main\\res\\anim\\push_up_in.xml"
+    },
+    {
+        "merged": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\build\\intermediates\\res\\merged\\debug\\anim_push_right_in.xml.flat",
+        "source": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\src\\main\\res\\anim\\push_right_in.xml"
+    },
+    {
+        "merged": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_browser.xml.flat",
+        "source": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\src\\main\\res\\layout\\browser.xml"
+    },
+    {
+        "merged": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\build\\intermediates\\res\\merged\\debug\\anim_grow_from_top.xml.flat",
+        "source": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\src\\main\\res\\anim\\grow_from_top.xml"
+    },
+    {
+        "merged": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_main.xml.flat",
+        "source": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\src\\main\\res\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_my_list_item.xml.flat",
+        "source": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\src\\main\\res\\layout\\my_list_item.xml"
+    },
+    {
+        "merged": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_info_dialog.xml.flat",
+        "source": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\src\\main\\res\\layout\\info_dialog.xml"
+    },
+    {
+        "merged": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home.png.flat",
+        "source": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\src\\main\\res\\drawable-hdpi\\home.png"
+    },
+    {
+        "merged": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\build\\intermediates\\res\\merged\\debug\\anim_push_right_out.xml.flat",
+        "source": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\src\\main\\res\\anim\\push_right_out.xml"
+    },
+    {
+        "merged": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\build\\intermediates\\res\\merged\\debug\\anim_push_down_out.xml.flat",
+        "source": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\src\\main\\res\\anim\\push_down_out.xml"
+    },
+    {
+        "merged": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\build\\intermediates\\res\\merged\\debug\\anim_fadein.xml.flat",
+        "source": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\src\\main\\res\\anim\\fadein.xml"
+    },
+    {
+        "merged": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\build\\intermediates\\res\\merged\\debug\\anim_fadeout.xml.flat",
+        "source": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\src\\main\\res\\anim\\fadeout.xml"
+    },
+    {
+        "merged": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land_activity_main.xml.flat",
+        "source": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\src\\main\\res\\layout-large-land\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\build\\intermediates\\res\\merged\\debug\\anim_push_down_in.xml.flat",
+        "source": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\src\\main\\res\\anim\\push_down_in.xml"
+    },
+    {
+        "merged": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_my_list_item.xml.flat",
+        "source": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\src\\main\\res\\layout-land\\my_list_item.xml"
+    },
+    {
+        "merged": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\build\\intermediates\\res\\merged\\debug\\anim_push_left_out.xml.flat",
+        "source": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\src\\main\\res\\anim\\push_left_out.xml"
+    },
+    {
+        "merged": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\build\\intermediates\\res\\merged\\debug\\anim_push_left_in.xml.flat",
+        "source": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\src\\main\\res\\anim\\push_left_in.xml"
+    },
+    {
+        "merged": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land_my_list_item.xml.flat",
+        "source": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\src\\main\\res\\layout-large-land\\my_list_item.xml"
+    },
+    {
+        "merged": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main.xml.flat",
+        "source": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\src\\main\\res\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\build\\intermediates\\res\\merged\\debug\\anim_rotation.xml.flat",
+        "source": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\src\\main\\res\\anim\\rotation.xml"
+    },
+    {
+        "merged": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_file_add.png.flat",
+        "source": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\src\\main\\res\\drawable-ldpi\\file_add.png"
+    },
+    {
+        "merged": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\build\\intermediates\\res\\merged\\debug\\anim_grow_from_bottom.xml.flat",
+        "source": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\src\\main\\res\\anim\\grow_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\build\\intermediates\\res\\merged\\debug\\anim_appear.xml.flat",
+        "source": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\src\\main\\res\\anim\\appear.xml"
+    },
+    {
+        "merged": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_dialog.xml.flat",
+        "source": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\src\\main\\res\\layout\\add_dialog.xml"
+    },
+    {
+        "merged": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\build\\intermediates\\res\\merged\\debug\\anim_push_up_out.xml.flat",
+        "source": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\src\\main\\res\\anim\\push_up_out.xml"
+    },
+    {
+        "merged": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_del.png.flat",
+        "source": "C:\\android_sdk\\workspace\\Marks Webshare Project\\app\\src\\main\\res\\drawable-ldpi\\del.png"
+    }
+]

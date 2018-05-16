@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#232323"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:gravity="center_horizontal"
+                android:text="@string/add_dialog_add_a_new_link"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@android:color/white" />
+
+            <EditText
+                android:id="@+id/addDialog_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:ems="10"
+                android:hint="@string/add_dialog_hint_title"
+                android:imeOptions="actionNext"
+                android:singleLine="true"
+                android:textColor="@android:color/white" >
+
+                <requestFocus />
+            </EditText>
+
+            <EditText
+                android:id="@+id/addDialog_description"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/add_dialog_hint_description"
+                android:imeOptions="actionNext"
+                android:singleLine="true"
+                android:textColor="@android:color/white" />
+
+            <EditText
+                android:id="@+id/addDialog_url"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/add_dialog_hint_url"
+                android:imeOptions="actionNext"
+                android:singleLine="true"
+                android:textColor="@android:color/white" />
+
+            <EditText
+                android:id="@+id/addDialog_category"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/add_dialog_hint_category"
+                android:imeOptions="actionNext"
+                android:singleLine="true"
+                android:textColor="@android:color/white" />
+
+            <EditText
+                android:id="@+id/addDialog_origin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/add_dialog_hint_origin"
+                android:imeOptions="actionNext"
+                android:singleLine="true"
+                android:textColor="@android:color/white" />
+
+            <LinearLayout
+                style="@android:style/ButtonBar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:gravity="center_horizontal"
+                android:weightSum="2" >
+
+                <Button
+                    android:id="@+id/addDialog_cancel_button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/cancel"
+                    android:textStyle="bold" />
+
+                <Button
+                    android:id="@+id/addDialog_ok_button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_weight="1"
+                    android:text="@string/ok"
+                    android:textStyle="bold" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
